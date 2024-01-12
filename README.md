@@ -1,4 +1,4 @@
-Hello all
+Hello all.
 This is my list of 100 days of RTL coding.
 Day1 --> 2*1 mux
 Day2 --> sync and async reset logic usind D flip flop
