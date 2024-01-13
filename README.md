@@ -35,3 +35,4 @@ Day32 --> shallow copy
 Day33 --> deep copy
 Day34 --> Random values
 Day35 --> Randc and rand
+Day36 --> checking randomization successful
