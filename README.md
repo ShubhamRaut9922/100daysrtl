@@ -38,3 +38,4 @@ Day35 --> Randc and rand
 Day36 --> checking randomization successful
 Day37 --> adding constraints
 Day38 --> external function and constrain
+Day39 --> Pre and Post randomization method
