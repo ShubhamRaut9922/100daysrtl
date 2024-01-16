@@ -40,3 +40,5 @@ Day37 --> adding constraints
 Day38 --> external function and constrain
 Day39 --> Pre and Post randomization method
 Day40 --> Distribution function
+Day41 --> implecation operator
+Day42 --> equivalence operator
