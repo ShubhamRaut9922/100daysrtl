@@ -43,3 +43,6 @@ Day40 --> Distribution function
 Day41 --> implecation operator
 Day42 --> equivalence operator
 Day43 --> IF FALSE operator
+Day44 --> Events in sv
+Day45 --> Multiple proccess
+Day46 --> FORK JOIN
