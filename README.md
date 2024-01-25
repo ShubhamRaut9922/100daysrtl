@@ -47,4 +47,5 @@ Day44 --> Events in sv
 Day45 --> Multiple proccess
 Day46 --> FORK JOIN
 Day47 --> understanding semaphore
-Day48 -- Mailbox
+Day48 --> Mailbox
+Day49 --> Sending transaction data with mailmox
